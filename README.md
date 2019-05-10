@@ -19,3 +19,8 @@ Based on [tutorials](https://www.youtube.com/watch?v=EbEZgdTOHzE&list=PLD5U-C5KK
     ```
  9. Update laravel`s .env file with your DB credentials
  10. Visit project on [http://0.0.0.0:8070](http://0.0.0.0:8070)
+
+### Planned todos:
+- replace apache with nginx
+- add cache service
+  
